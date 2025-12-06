@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu/mnt/c/Users/Beheerder/data_learning"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}

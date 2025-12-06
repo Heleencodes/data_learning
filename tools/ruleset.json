@@ -1,0 +1,9 @@
+{
+    ".csv": "datasets",
+    ".xlsx": "datasets",
+    ".json": "reference_library",
+    ".db": "sqlite_databases",
+    ".sql": "sqlite_databases",
+    ".py": "python_projects",
+    ".ipynb": "python_projects"
+}

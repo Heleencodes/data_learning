@@ -1,0 +1,14 @@
+# Archive Databases
+
+Deze map bevat oude, tijdelijke of niet-actieve SQLite databases die niet meer actief gebruikt worden, maar die ik wel bewaar voor referentie of eventueel hergebruik.
+
+## Richtlijnen
+- Alleen databases opslaan die niet meer actief gebruikt worden.
+- Nieuwe projectdatabases horen in:
+  `/data_learning/sqlite_databases/`
+- Deze map wordt NIET gebruikt voor scripts of actieve data pipelines.
+
+## Bevat momenteel
+- `cvd.db` – oude oefendatabase (bron onbekend)
+- `test.db` – testdatabase gebruikt tijdens experimenten
+

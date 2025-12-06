@@ -1,0 +1,14 @@
+{
+    "python.defaultInterpreterPath": "/home/heleencodes/main_env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.exclude": [
+        "**/venv",
+        "**/.venv"
+    ],
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.kernels.exclude": [
+        "python3", 
+        "Python 3", 
+        "Windows Python"
+    ]
+}

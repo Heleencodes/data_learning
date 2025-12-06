@@ -1,0 +1,70 @@
+Weekly Audit - 2025-11-27 17:19
+============================================================
+
+Basis-map: C:\Users\Beheerder\data_learning
+
+Verdwaalde bestanden: 94
+Lege mappen:           59
+Rare / extensieloze:   34
+Duplicaat-groepen:     4
+
+Verdwaalde bestanden
+--------------------
+  1. C:\Users\Beheerder\data_learning\chicago_project\data\ChicagoPublicSchools01.csv -> hoort in datasets
+  2. C:\Users\Beheerder\data_learning\chicago_project\db\chicago.db -> hoort in sqlite_databases
+  3. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\module_4_accessing_databases.ipynb -> hoort in python_projects
+  4. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\module_4_analyzingarealworld_data_set.ipynb -> hoort in python_projects
+  5. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\module_4_analyzing_ real-World_data_set.ipynb -> hoort in python_projects
+  6. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\module_4_Insert_ update-SQLite-v2.ipynb -> hoort in python_projects
+  7. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\module_4_practice_querying_real_world_datasets.ipynb -> hoort in python_projects
+  8. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\module_4_working_with_real_world_dataset.ipynb -> hoort in python_projects
+  9. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\CSV_files\ChicagoPublicSchools.csv -> hoort in datasets
+  10. C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\CSV_files\ChicagoPublicSchools01.csv -> hoort in datasets
+  ... (+84 meer)
+
+Lege mappen
+-----------
+  1. C:\Users\Beheerder\data_learning\ADA_bootcamp\admin
+  2. C:\Users\Beheerder\data_learning\ADA_bootcamp\module_1
+  3. C:\Users\Beheerder\data_learning\ADA_bootcamp\module_2
+  4. C:\Users\Beheerder\data_learning\ADA_bootcamp\module_3
+  5. C:\Users\Beheerder\data_learning\ADA_bootcamp\week_01
+  6. C:\Users\Beheerder\data_learning\ADA_bootcamp\week_02
+  7. C:\Users\Beheerder\data_learning\cheat_sheets
+  8. C:\Users\Beheerder\data_learning\chicago_project\notebooks
+  9. C:\Users\Beheerder\data_learning\chicago_project\reports
+  10. C:\Users\Beheerder\data_learning\chicago_project\scripts
+  ... (+49 meer)
+
+Rare / extensieloze bestanden
+-----------------------------
+  1. C:\Users\Beheerder\data_learning\databases\coursera\INSTRUCTOR.db-journal
+  2. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\COMMIT_EDITMSG
+  3. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\config
+  4. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\description
+  5. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\FETCH_HEAD
+  6. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\HEAD
+  7. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\index
+  8. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\info\exclude
+  9. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\logs\HEAD
+  10. C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\logs\refs\heads\main
+  ... (+24 meer)
+
+Duplicaat-groepen
+------------------
+  Groep 1:
+    - C:\Users\Beheerder\data_learning\chicago_project\data\ChicagoPublicSchools01.csv
+    - C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\CSV_files\ChicagoPublicSchools.csv
+    - C:\Users\Beheerder\data_learning\coursera\IBM_Databases_And_SQL\module_4\CSV_files\ChicagoPublicSchools01.csv
+    - C:\Users\Beheerder\data_learning\datasets\Chicago_PublicSchools_schools_raw.csv
+    - C:\Users\Beheerder\data_learning\python_data_analysis\module_4_sql\final_assigment\data\ChicagoPublicSchools.csv
+  Groep 2:
+    - C:\Users\Beheerder\data_learning\entity_extraction\logs\crash.txt
+    - C:\Users\Beheerder\data_learning\entity_extraction\logs\errors.txt
+    - C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\FETCH_HEAD
+  Groep 3:
+    - C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\refs\heads\main
+    - C:\Users\Beheerder\data_learning\python_fundamentals\cheatsheets\.git\refs\remotes\origin\main
+  Groep 4:
+    - C:\Users\Beheerder\data_learning\_archive\python_old_scripts\Namelower.py
+    - C:\Users\Beheerder\data_learning\_archive\python_old_scripts\print ('hrllo world').py

@@ -1,0 +1,201 @@
+id,language,text,sentiment_label,sentiment_score,aspects,topic_id
+1,nl,"Mijn pakket zou gisteren geleverd worden, maar er is niks gekomen.",negative,0.1,delivery,5
+2,nl,Supersnel geleverd! Binnen een dag in huis.,positive,0.9,none,6
+3,nl,Product werkt niet eens. Na één dag al kapot.,negative,0.1,product_quality,0
+4,nl,"De klantenservice was vriendelijk, maar ik moest wel 25 minuten wachten.",neutral,0.4205086827278137,customer_service,-1
+5,nl,Retour sturen is echt gedoe. Geen duidelijke instructies.,negative,0.1,returns,1
+6,nl,Heel blij met mijn aankoop! Precies wat ik nodig had.,positive,0.9,none,2
+7,nl,"Website liep vast tijdens het betalen, drie keer opnieuw moeten proberen.",negative,0.679528534412384,website,-1
+8,nl,Bezorger zette het pakket gewoon in de regen.,negative,0.3422223627567291,delivery,0
+9,nl,Alles was in orde. Niks op aan te merken.,positive,0.34020790457725525,none,3
+10,nl,"De verpakking was beschadigd, maar het product gelukkig niet.",negative,0.1,product_quality,0
+11,nl,Pakket kwijtgeraakt volgens track-and-trace.,negative,0.31596076488494873,delivery,1
+12,nl,Superchagrijnige medewerker aan de telefoon.,negative,0.1,customer_service,4
+13,nl,Bestelling sneller geleverd dan verwacht!,negative,0.1,none,6
+14,nl,"Voorraadstatus klopt niet. Staat op voorraad, maar levering duurt lang.",negative,0.1,price,7
+15,nl,Verkeerd artikel toegestuurd gekregen.,negative,0.8305184841156006,none,-1
+16,nl,"Prijs is scherp, kwaliteit prima.",positive,0.9,"product_quality,price",2
+17,nl,"Drukte snap ik, maar twee weken wachten is te lang.",negative,0.4805082380771637,none,-1
+18,nl,Fantastisch geholpen via de chat.,positive,0.9,none,4
+19,nl,Instructies ontbreken volledig.,negative,0.5060470104217529,none,3
+20,nl,Product doet precies wat het moet doen.,positive,0.48732733726501465,none,1
+21,nl,"Mijn pakket zou gisteren geleverd worden, maar er is niks gekomen.",negative,0.1,delivery,5
+22,nl,Supersnel geleverd! Binnen een dag in huis.,positive,0.9,none,6
+23,nl,Product werkt niet eens. Na één dag al kapot.,negative,0.1,product_quality,0
+24,nl,"De klantenservice was vriendelijk, maar ik moest wel 25 minuten wachten.",neutral,0.4205086827278137,customer_service,-1
+25,nl,Retour sturen is echt gedoe. Geen duidelijke instructies.,negative,0.1,returns,1
+26,nl,Heel blij met mijn aankoop! Precies wat ik nodig had.,positive,0.9,none,2
+27,nl,"Website liep vast tijdens het betalen, drie keer opnieuw moeten proberen.",negative,0.679528534412384,website,-1
+28,nl,Bezorger zette het pakket gewoon in de regen.,negative,0.3422223627567291,delivery,0
+29,nl,Alles was in orde. Niks op aan te merken.,positive,0.34020790457725525,none,3
+30,nl,"De verpakking was beschadigd, maar het product gelukkig niet.",negative,0.1,product_quality,0
+31,nl,Pakket kwijtgeraakt volgens track-and-trace.,negative,0.31596076488494873,delivery,1
+32,nl,Superchagrijnige medewerker aan de telefoon.,negative,0.1,customer_service,4
+33,nl,Bestelling sneller geleverd dan verwacht!,negative,0.1,none,6
+34,nl,"Voorraadstatus klopt niet. Staat op voorraad, maar levering duurt lang.",negative,0.1,price,7
+35,nl,Verkeerd artikel toegestuurd gekregen.,negative,0.8305184841156006,none,-1
+36,nl,"Prijs is scherp, kwaliteit prima.",positive,0.9,"product_quality,price",2
+37,nl,"Drukte snap ik, maar twee weken wachten is te lang.",negative,0.4805082380771637,none,-1
+38,nl,Fantastisch geholpen via de chat.,positive,0.9,none,4
+39,nl,Instructies ontbreken volledig.,negative,0.5060470104217529,none,3
+40,nl,Product doet precies wat het moet doen.,positive,0.48732733726501465,none,1
+41,nl,"Mijn pakket zou gisteren geleverd worden, maar er is niks gekomen.",negative,0.1,delivery,5
+42,nl,Supersnel geleverd! Binnen een dag in huis.,positive,0.9,none,6
+43,nl,Product werkt niet eens. Na één dag al kapot.,negative,0.1,product_quality,0
+44,nl,"De klantenservice was vriendelijk, maar ik moest wel 25 minuten wachten.",neutral,0.4205086827278137,customer_service,-1
+45,nl,Retour sturen is echt gedoe. Geen duidelijke instructies.,negative,0.1,returns,1
+46,nl,Heel blij met mijn aankoop! Precies wat ik nodig had.,positive,0.9,none,2
+47,nl,"Website liep vast tijdens het betalen, drie keer opnieuw moeten proberen.",negative,0.679528534412384,website,-1
+48,nl,Bezorger zette het pakket gewoon in de regen.,negative,0.3422223627567291,delivery,0
+49,nl,Alles was in orde. Niks op aan te merken.,positive,0.34020790457725525,none,3
+50,nl,"De verpakking was beschadigd, maar het product gelukkig niet.",negative,0.1,product_quality,0
+51,nl,Pakket kwijtgeraakt volgens track-and-trace.,negative,0.31596076488494873,delivery,1
+52,nl,Superchagrijnige medewerker aan de telefoon.,negative,0.1,customer_service,4
+53,nl,Bestelling sneller geleverd dan verwacht!,negative,0.1,none,6
+54,nl,"Voorraadstatus klopt niet. Staat op voorraad, maar levering duurt lang.",negative,0.1,price,7
+55,nl,Verkeerd artikel toegestuurd gekregen.,negative,0.8305184841156006,none,-1
+56,nl,"Prijs is scherp, kwaliteit prima.",positive,0.9,"product_quality,price",2
+57,nl,"Drukte snap ik, maar twee weken wachten is te lang.",negative,0.4805082380771637,none,-1
+58,nl,Fantastisch geholpen via de chat.,positive,0.9,none,4
+59,nl,Instructies ontbreken volledig.,negative,0.5060470104217529,none,3
+60,nl,Product doet precies wat het moet doen.,positive,0.48732733726501465,none,1
+61,nl,"Mijn pakket zou gisteren geleverd worden, maar er is niks gekomen.",negative,0.1,delivery,5
+62,nl,Supersnel geleverd! Binnen een dag in huis.,positive,0.9,none,6
+63,nl,Product werkt niet eens. Na één dag al kapot.,negative,0.1,product_quality,0
+64,nl,"De klantenservice was vriendelijk, maar ik moest wel 25 minuten wachten.",neutral,0.4205086827278137,customer_service,-1
+65,nl,Retour sturen is echt gedoe. Geen duidelijke instructies.,negative,0.1,returns,1
+66,nl,Heel blij met mijn aankoop! Precies wat ik nodig had.,positive,0.9,none,2
+67,nl,"Website liep vast tijdens het betalen, drie keer opnieuw moeten proberen.",negative,0.679528534412384,website,-1
+68,nl,Bezorger zette het pakket gewoon in de regen.,negative,0.3422223627567291,delivery,0
+69,nl,Alles was in orde. Niks op aan te merken.,positive,0.34020790457725525,none,3
+70,nl,"De verpakking was beschadigd, maar het product gelukkig niet.",negative,0.1,product_quality,0
+71,nl,Pakket kwijtgeraakt volgens track-and-trace.,negative,0.31596076488494873,delivery,1
+72,nl,Superchagrijnige medewerker aan de telefoon.,negative,0.1,customer_service,4
+73,nl,Bestelling sneller geleverd dan verwacht!,negative,0.1,none,6
+74,nl,"Voorraadstatus klopt niet. Staat op voorraad, maar levering duurt lang.",negative,0.1,price,7
+75,nl,Verkeerd artikel toegestuurd gekregen.,negative,0.8305184841156006,none,-1
+76,nl,"Prijs is scherp, kwaliteit prima.",positive,0.9,"product_quality,price",2
+77,nl,"Drukte snap ik, maar twee weken wachten is te lang.",negative,0.4805082380771637,none,-1
+78,nl,Fantastisch geholpen via de chat.,positive,0.9,none,4
+79,nl,Instructies ontbreken volledig.,negative,0.5060470104217529,none,3
+80,nl,Product doet precies wat het moet doen.,positive,0.48732733726501465,none,1
+81,nl,"Mijn pakket zou gisteren geleverd worden, maar er is niks gekomen.",negative,0.1,delivery,5
+82,nl,Supersnel geleverd! Binnen een dag in huis.,positive,0.9,none,6
+83,nl,Product werkt niet eens. Na één dag al kapot.,negative,0.1,product_quality,0
+84,nl,"De klantenservice was vriendelijk, maar ik moest wel 25 minuten wachten.",neutral,0.4205086827278137,customer_service,-1
+85,nl,Retour sturen is echt gedoe. Geen duidelijke instructies.,negative,0.1,returns,1
+86,nl,Heel blij met mijn aankoop! Precies wat ik nodig had.,positive,0.9,none,2
+87,nl,"Website liep vast tijdens het betalen, drie keer opnieuw moeten proberen.",negative,0.679528534412384,website,-1
+88,nl,Bezorger zette het pakket gewoon in de regen.,negative,0.3422223627567291,delivery,0
+89,nl,Alles was in orde. Niks op aan te merken.,positive,0.34020790457725525,none,3
+90,nl,"De verpakking was beschadigd, maar het product gelukkig niet.",negative,0.1,product_quality,0
+91,nl,Pakket kwijtgeraakt volgens track-and-trace.,negative,0.31596076488494873,delivery,1
+92,nl,Superchagrijnige medewerker aan de telefoon.,negative,0.1,customer_service,4
+93,nl,Bestelling sneller geleverd dan verwacht!,negative,0.1,none,6
+94,nl,"Voorraadstatus klopt niet. Staat op voorraad, maar levering duurt lang.",negative,0.1,price,7
+95,nl,Verkeerd artikel toegestuurd gekregen.,negative,0.8305184841156006,none,-1
+96,nl,"Prijs is scherp, kwaliteit prima.",positive,0.9,"product_quality,price",2
+97,nl,"Drukte snap ik, maar twee weken wachten is te lang.",negative,0.4805082380771637,none,-1
+98,nl,Fantastisch geholpen via de chat.,positive,0.9,none,4
+99,nl,Instructies ontbreken volledig.,negative,0.5060470104217529,none,3
+100,nl,Product doet precies wat het moet doen.,positive,0.48732733726501465,none,1
+101,en,"My order was supposed to arrive yesterday, but nothing showed up.",negative,0.39355942606925964,none,5
+102,en,Super fast delivery! Got it the next day.,positive,0.7771738171577454,none,6
+103,en,The product doesn’t work. Broke after one day.,negative,0.8831172585487366,none,0
+104,en,"Customer service was kind, but I waited 25 minutes.",positive,0.9,none,-1
+105,en,Returning items is such a hassle.,negative,0.6982318758964539,none,7
+106,en,Really happy with my purchase!,positive,0.8230791091918945,none,2
+107,en,"Website crashed during checkout, had to try three times.",negative,0.7259371876716614,website,-1
+108,en,Courier left the package out in the rain.,negative,0.4377102255821228,none,0
+109,en,Everything was fine. No complaints.,positive,0.4830087423324585,none,3
+110,en,Box arrived damaged but item was okay.,neutral,0.5681681632995605,none,0
+111,en,Tracking says my package is lost.,negative,0.5170125961303711,none,1
+112,en,The agent on the phone sounded grumpy.,negative,0.42736780643463135,none,4
+113,en,Order arrived earlier than expected!,positive,0.3902055621147156,none,5
+114,en,Stock info is wrong. Says in stock but ships slowly.,neutral,0.4133104681968689,none,7
+115,en,I got sent the wrong item.,negative,0.670660138130188,none,-1
+116,en,"Good price, quality is fine.",positive,0.5324739813804626,none,2
+117,en,"I understand delays, but two weeks is too long.",negative,0.4769982695579529,none,-1
+118,en,Great help on the live chat.,positive,0.7083144783973694,none,4
+119,en,No instructions included.,negative,0.41735610365867615,none,3
+120,en,Product works exactly as described.,positive,0.6578674912452698,none,1
+121,en,"My order was supposed to arrive yesterday, but nothing showed up.",negative,0.39355942606925964,none,5
+122,en,Super fast delivery! Got it the next day.,positive,0.7771738171577454,none,6
+123,en,The product doesn’t work. Broke after one day.,negative,0.8831172585487366,none,0
+124,en,"Customer service was kind, but I waited 25 minutes.",positive,0.9,none,-1
+125,en,Returning items is such a hassle.,negative,0.6982318758964539,none,7
+126,en,Really happy with my purchase!,positive,0.8230791091918945,none,2
+127,en,"Website crashed during checkout, had to try three times.",negative,0.7259371876716614,website,-1
+128,en,Courier left the package out in the rain.,negative,0.4377102255821228,none,0
+129,en,Everything was fine. No complaints.,positive,0.4830087423324585,none,3
+130,en,Box arrived damaged but item was okay.,neutral,0.5681681632995605,none,0
+131,en,Tracking says my package is lost.,negative,0.5170125961303711,none,1
+132,en,The agent on the phone sounded grumpy.,negative,0.42736780643463135,none,4
+133,en,Order arrived earlier than expected!,positive,0.3902055621147156,none,5
+134,en,Stock info is wrong. Says in stock but ships slowly.,neutral,0.4133104681968689,none,7
+135,en,I got sent the wrong item.,negative,0.670660138130188,none,-1
+136,en,"Good price, quality is fine.",positive,0.5324739813804626,none,2
+137,en,"I understand delays, but two weeks is too long.",negative,0.4769982695579529,none,-1
+138,en,Great help on the live chat.,positive,0.7083144783973694,none,4
+139,en,No instructions included.,negative,0.41735610365867615,none,3
+140,en,Product works exactly as described.,positive,0.6578674912452698,none,1
+141,en,"My order was supposed to arrive yesterday, but nothing showed up.",negative,0.39355942606925964,none,5
+142,en,Super fast delivery! Got it the next day.,positive,0.7771738171577454,none,6
+143,en,The product doesn’t work. Broke after one day.,negative,0.8831172585487366,none,0
+144,en,"Customer service was kind, but I waited 25 minutes.",positive,0.9,none,-1
+145,en,Returning items is such a hassle.,negative,0.6982318758964539,none,7
+146,en,Really happy with my purchase!,positive,0.8230791091918945,none,2
+147,en,"Website crashed during checkout, had to try three times.",negative,0.7259371876716614,website,-1
+148,en,Courier left the package out in the rain.,negative,0.4377102255821228,none,0
+149,en,Everything was fine. No complaints.,positive,0.4830087423324585,none,3
+150,en,Box arrived damaged but item was okay.,neutral,0.5681681632995605,none,0
+151,en,Tracking says my package is lost.,negative,0.5170125961303711,none,1
+152,en,The agent on the phone sounded grumpy.,negative,0.42736780643463135,none,4
+153,en,Order arrived earlier than expected!,positive,0.3902055621147156,none,5
+154,en,Stock info is wrong. Says in stock but ships slowly.,neutral,0.4133104681968689,none,7
+155,en,I got sent the wrong item.,negative,0.670660138130188,none,-1
+156,en,"Good price, quality is fine.",positive,0.5324739813804626,none,2
+157,en,"I understand delays, but two weeks is too long.",negative,0.4769982695579529,none,-1
+158,en,Great help on the live chat.,positive,0.7083144783973694,none,4
+159,en,No instructions included.,negative,0.41735610365867615,none,3
+160,en,Product works exactly as described.,positive,0.6578674912452698,none,1
+161,en,"My order was supposed to arrive yesterday, but nothing showed up.",negative,0.39355942606925964,none,5
+162,en,Super fast delivery! Got it the next day.,positive,0.7771738171577454,none,6
+163,en,The product doesn’t work. Broke after one day.,negative,0.8831172585487366,none,0
+164,en,"Customer service was kind, but I waited 25 minutes.",positive,0.9,none,-1
+165,en,Returning items is such a hassle.,negative,0.6982318758964539,none,7
+166,en,Really happy with my purchase!,positive,0.8230791091918945,none,2
+167,en,"Website crashed during checkout, had to try three times.",negative,0.7259371876716614,website,-1
+168,en,Courier left the package out in the rain.,negative,0.4377102255821228,none,0
+169,en,Everything was fine. No complaints.,positive,0.4830087423324585,none,3
+170,en,Box arrived damaged but item was okay.,neutral,0.5681681632995605,none,0
+171,en,Tracking says my package is lost.,negative,0.5170125961303711,none,1
+172,en,The agent on the phone sounded grumpy.,negative,0.42736780643463135,none,4
+173,en,Order arrived earlier than expected!,positive,0.3902055621147156,none,5
+174,en,Stock info is wrong. Says in stock but ships slowly.,neutral,0.4133104681968689,none,7
+175,en,I got sent the wrong item.,negative,0.670660138130188,none,-1
+176,en,"Good price, quality is fine.",positive,0.5324739813804626,none,2
+177,en,"I understand delays, but two weeks is too long.",negative,0.4769982695579529,none,-1
+178,en,Great help on the live chat.,positive,0.7083144783973694,none,4
+179,en,No instructions included.,negative,0.41735610365867615,none,3
+180,en,Product works exactly as described.,positive,0.6578674912452698,none,1
+181,en,"My order was supposed to arrive yesterday, but nothing showed up.",negative,0.39355942606925964,none,5
+182,en,Super fast delivery! Got it the next day.,positive,0.7771738171577454,none,6
+183,en,The product doesn’t work. Broke after one day.,negative,0.8831172585487366,none,0
+184,en,"Customer service was kind, but I waited 25 minutes.",positive,0.9,none,-1
+185,en,Returning items is such a hassle.,negative,0.6982318758964539,none,7
+186,en,Really happy with my purchase!,positive,0.8230791091918945,none,2
+187,en,"Website crashed during checkout, had to try three times.",negative,0.7259371876716614,website,-1
+188,en,Courier left the package out in the rain.,negative,0.4377102255821228,none,0
+189,en,Everything was fine. No complaints.,positive,0.4830087423324585,none,3
+190,en,Box arrived damaged but item was okay.,neutral,0.5681681632995605,none,0
+191,en,Tracking says my package is lost.,negative,0.5170125961303711,none,1
+192,en,The agent on the phone sounded grumpy.,negative,0.42736780643463135,none,4
+193,en,Order arrived earlier than expected!,positive,0.3902055621147156,none,5
+194,en,Stock info is wrong. Says in stock but ships slowly.,neutral,0.4133104681968689,none,7
+195,en,I got sent the wrong item.,negative,0.670660138130188,none,-1
+196,en,"Good price, quality is fine.",positive,0.5324739813804626,none,2
+197,en,"I understand delays, but two weeks is too long.",negative,0.4769982695579529,none,-1
+198,en,Great help on the live chat.,positive,0.7083144783973694,none,4
+199,en,No instructions included.,negative,0.41735610365867615,none,3
+200,en,Product works exactly as described.,positive,0.6578674912452698,none,1

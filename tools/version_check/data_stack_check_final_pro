@@ -1,0 +1,98 @@
+import importlib
+import pandas as pd
+import sys
+import platform
+import pkgutil
+from IPython.display import HTML, display
+
+# --------------------------------------------
+# Config: Libraries die gecontroleerd worden
+# --------------------------------------------
+LIBRARIES = [
+    "pandas",
+    "numpy",
+    "scipy",
+    "seaborn",
+    "matplotlib",
+    "sklearn",
+    # "requests",        # pas installeren wanneer nodig
+    # "statsmodels",
+]
+
+# --------------------------------------------
+# Helper functies
+# --------------------------------------------
+def check_lib(lib_name):
+    """Checkt of library geïnstalleerd is en geeft versie terug."""
+    try:
+        module = importlib.import_module(lib_name)
+        version = getattr(module, "__version__", "onbekend")
+        return True, version
+    except ImportError:
+        return False, None
+
+def color_installed(val):
+    """Kleur groen/rood voor Installed-kolom."""
+    if val == "✔️":
+        return "color: white; background-color: #4CAF50; font-weight:bold;"
+    else:
+        return "color: white; background-color: #E53935; font-weight:bold;"
+
+# --------------------------------------------
+# Systeeminformatie verzamelen
+# --------------------------------------------
+python_version = sys.version.split()[0]
+interpreter_path = sys.executable
+os_info = f"{platform.system()} {platform.release()}"
+package_count = len(list(pkgutil.iter_modules()))
+
+# WSL detectie
+if "microsoft" in platform.release().lower():
+    os_info += " (WSL2)"
+
+# --------------------------------------------
+# Data libraries checken
+# --------------------------------------------
+results = []
+for lib in LIBRARIES:
+    ok, version = check_lib(lib)
+    results.append({
+        "Library": lib,
+        "Installed": "✔️" if ok else "❌",
+        "Version": version if version else "-"
+    })
+
+df = pd.DataFrame(results)
+
+styled_df = (
+    df.style
+    .applymap(color_installed, subset=["Installed"])
+    .set_properties(**{"text-align": "center", "padding": "6px"})
+    .set_table_styles(
+        [
+            {"selector": "th", 
+             "props": "background-color: #1E88E5; color: white; font-weight: bold; padding: 8px;"},
+            {"selector": "td",
+             "props": "font-size: 14px; padding: 6px;"}
+        ]
+    )
+)
+
+# --------------------------------------------
+# Header met systeeminformatie
+# --------------------------------------------
+header_html = f"""
+<h2 style='color:#1E88E5; font-family:Arial;'>Python Data Stack Check — PRO Version</h2>
+<div style='font-family:Arial; font-size:14px; line-height:1.6; margin-bottom:10px;'>
+  <b>Python versie:</b> {python_version}<br>
+  <b>Interpreter pad:</b> {interpreter_path}<br>
+  <b>Operating System:</b> {os_info}<br>
+  <b>Aantal geïnstalleerde packages:</b> {package_count}
+</div>
+"""
+
+# --------------------------------------------
+# Output tonen
+# --------------------------------------------
+display(HTML(header_html))
+display(styled_df)
