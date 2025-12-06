@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.main_env/
+*env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+*.code-workspae
+
+# Nano temporary files
+nano.*.save
+
+# Data that should not be committed
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+
+# Large raw data folders (custom)
+data/raw/*
+data/processed/*
+data/intermediate/*
